@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988784515935",
+    "project_id": "defido-cbc03",
+    "storage_bucket": "defido-cbc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988784515935:android:6ed7443d7fb4826c6df4ea",
+        "android_client_info": {
+          "package_name": "com.example.defido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988784515935-a34e5ddvoak0di2mbrdonfc178rb7jhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYq4ez_hUCL9zm4nhHHvamjXg8oAev4ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988784515935-a34e5ddvoak0di2mbrdonfc178rb7jhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
